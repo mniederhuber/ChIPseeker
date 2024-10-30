@@ -1,3 +1,7 @@
+# ChIPseeker 1.42.0
+
++ Bioconductor RELEASE_3_20 (2024-10-30, Wed)
+
 # ChIPseeker 1.41.3
 
 + Better `covplot()`. Support universal chromosome names, and keep the default order of multiple peaks when plot a list of `GRanges` object.
