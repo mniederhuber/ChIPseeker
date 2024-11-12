@@ -68,8 +68,6 @@ Suggests:
     ReactomePA,
     rmarkdown,
     testthat
-Remotes:
-    GuangchuangYu/enrichplot
 URL: https://yulab-smu.top/contribution-knowledge-mining/
 BugReports: https://github.com/YuLab-SMU/ChIPseeker/issues
 Encoding: UTF-8
